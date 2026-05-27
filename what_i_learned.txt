@@ -1,0 +1,4 @@
+I learned:
+Need to Reverse the power transformation (like log to exp) when predicting, if not done then it will throw a small value
+Basics of Stramlit 
+Always dump the fit pipeline not not-fitted pipeline else the exported model will be untrained

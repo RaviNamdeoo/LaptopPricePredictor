@@ -1,2 +1,0 @@
-if weak accuracy is getting, then remove features which are having (-)ve values
-apply power transformers on the outliers 
